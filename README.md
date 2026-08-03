@@ -4,7 +4,7 @@
 
 # 💫 About Me | 自己紹介
 
-I am a transfeminine programmer fluent in TypeScript, JavaScript, CSS, HTML, Python, and shell scripting languages such as Bash and PowerShell. I am a 21-year-old transfemme with 9 years of programming experience, having taught myself to code starting with JavaScript Discord bots.
+I am a transfeminine programmer with experience in TypeScript, JavaScript, CSS, HTML, Python, and shell scripting languages such as Bash and PowerShell. I am a 21-year-old transfemme with 9 years of programming experience, having taught myself to code by building JavaScript Discord bots.
 
 私はトランスフェミニンなプログラマーです。TypeScript、JavaScript、CSS、HTML、Pythonに加え、BashやPowerShellなどのシェルスクリプトも扱っています。21歳で、プログラミング歴は9年になります。JavaScriptでDiscordボットを開発することから独学でプログラミングを始めました。
 
