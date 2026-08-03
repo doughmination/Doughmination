@@ -4,9 +4,13 @@
 
 # 💫 About Me | 自己紹介
 
-Hi, I'm Clove! I'm a 21-year-old transfeminine programmer with 9 years of programming experience. I primarily work with TypeScript, JavaScript, CSS, HTML, Python, Bash, and PowerShell. I taught myself to code by building Discord bots in JavaScript.
+Hi, I'm Clove! I'm a 21-year-old transfeminine programmer with 9 years of programming experience. I enjoy building open-source projects, experimenting with new ideas, and contributing to the communities I'm part of.
 
-こんにちは、クローブです！私は21歳のトランスフェミニンなプログラマーです。プログラミング歴は9年で、主にTypeScript、JavaScript、CSS、HTML、Python、Bash、PowerShellを使っています。JavaScriptでDiscordボットを開発したことをきっかけに、独学でプログラミングを始めました。
+I primarily work with TypeScript, JavaScript, CSS, HTML, Python, Bash, and PowerShell. I taught myself to code by building Discord bots in JavaScript, and have been creating a wide variety of projects ever since.
+
+こんにちは、クローブです！私は21歳のトランスフェミニンなプログラマーで、プログラミング歴は9年になります。オープンソースプロジェクトの開発や、新しいアイデアを形にすること、そして参加しているコミュニティへの貢献を楽しんでいます。
+
+主にTypeScript、JavaScript、CSS、HTML、Python、Bash、PowerShellを使っています。JavaScriptでDiscordボットを開発したことをきっかけに独学でプログラミングを始め、それ以来さまざまなプロジェクトを開発しています。
 
 # ⏱️ Wakatime
 
