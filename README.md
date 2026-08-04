@@ -117,8 +117,6 @@ I contribute to and maintain projects across different communities.
 * Improving my backend and infrastructure skills
 * Creating tools for communities I am part of
 
-現在取り組んでいること:
-
 * TypeScriptを使ったプロジェクト開発
 * バックエンドやインフラ技術の向上
 * 参加しているコミュニティ向けのツール作成
