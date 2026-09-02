@@ -5,13 +5,9 @@
   <p>
     Developer, open-source enthusiast, and builder of small tools, APIs, and community projects.
   </p>
-
-  <p>
-    開発者、オープンソース愛好家、そして小さなツールやAPI、コミュニティ向けプロジェクトを作っています。
-  </p>
 </div>
 
-# About Me | 自己紹介
+# About Me
 
 Hi, I'm Clove! I'm a 21-year-old transfeminine developer with 9 years of programming experience.
 
@@ -19,8 +15,6 @@ I enjoy building open-source projects, experimenting with new ideas, and creatin
 
 I started programming by making Discord bots with JavaScript, and since then I've explored many different areas of development, from web applications and APIs to automation tools and community projects.
 
-こんにちは、クローブです！私は21歳のトランスフェミニンな開発者で、プログラミング歴は9年になります。
+# Support
 
-オープンソースプロジェクトの開発、新しいアイデアの実験、そして自分自身や参加しているコミュニティに役立つツール作りを楽しんでいます。
-
-JavaScriptでDiscordボットを開発したことをきっかけにプログラミングを始め、それ以来Webアプリケーション、API、自動化ツール、コミュニティ向けプロジェクトなど、さまざまな分野に取り組んできました。
+If you need support with any code I create, or have general enquires, you can access my [Matrix](https://matrix.to/#/#doughmination:matrix.org) or my [Discord](https://discord.gg/N8gCjS294R)
