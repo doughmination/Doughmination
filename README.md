@@ -9,7 +9,7 @@
 
 # About Me
 
-Hi, I'm Clove! I'm a 21-year-old transfeminine developer with 9 years of programming experience.
+Hi, I'm Clove! I'm a 22-year-old transfeminine developer with 9 years of programming experience.
 
 I enjoy building open-source projects, experimenting with new ideas, and creating tools that are useful to myself and the communities I'm part of.
 
