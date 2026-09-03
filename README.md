@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./pfp-trans.png" width="150">
+  <img src="https://raw.githubusercontent.com/doughmination/doughmination/refs/heads/main/pfp-trans.png" width="150">
 
   <h1>Hi, I'm Clove! 👋</h1>
   <p>
