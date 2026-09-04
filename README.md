@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/doughmination/doughmination/refs/heads/main/pfp-trans.png" width="150">
+  <img src="https://m.doughmination.gay/pk/avatars/C1.png" width="150">
 
   <h1>Hi, I'm Clove! 👋</h1>
   <p>
@@ -21,4 +21,4 @@ If you need support with any code I create, or have general enquires, you can ac
 
 # GitHub Badges
 
-Soon tm
+<img src="https://m.doughmination.gay/gh-badges/GitHubSponsorBadge.png" width="75"> <img src="https://m.doughmination.gay/gh-badges/PullShark.png" width="75"> <img src="https://m.doughmination.gay/gh-badges/QuickDraw_SkinTone2.png" width="75"> <img src="https://m.doughmination.gay/gh-badges/YOLO_Badge.png" width="75">
