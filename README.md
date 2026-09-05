@@ -17,7 +17,7 @@ I started programming by making Discord bots with JavaScript, and since then I'v
 
 # Support
 
-If you need support with any code I create, or have general enquires, you can access my [Matrix](https://matrix.to/#/#doughmination:matrix.org) or my [Discord](https://discord.gg/N8gCjS294R)
+If you need support with any code I create, or have general enquires, check my [docs](https://docs.doughmination.gay) first, or you can access my [Matrix](https://matrix.to/#/#doughmination:matrix.org) or my [Discord](https://discord.gg/N8gCjS294R)
 
 # GitHub Badges
 
